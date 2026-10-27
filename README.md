@@ -16,7 +16,7 @@
   - 'Brain CT Anomaly Detection 연구' <sub>`proceeding..` </sub>
 - `BMI Lab` — SNU Hospital · **Research Intern** <sub>`2026.03 ~ 2026.08`</sub>
   - Stain/scanner-robust self-supervised encoders for pathology WSI (DINO / DINOv2)
-- `Naver Cloud` AI/AX Business Strategy Intern <sub>`2026.08 ~ present`</sub>
+- `Naver Cloud` **AI/AX Business Strategy Intern** <sub>`2026.08 ~ present`</sub>
 <br>
 
 ## 🏆 Awards 
