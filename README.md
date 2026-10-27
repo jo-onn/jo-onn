@@ -8,18 +8,15 @@
 - `KHUDA` (Kyunghee Univ Data Analysis & AI Central Club) 5th <sub>2024.01 ~ 2024.06</sub>
   -  Head of Planning and Operations & NLP Track Leader
   - '5기 텍(Tech)톡(Talk) 운영' [Tech-TALK](https://www.notion.so/Tech-Talk-a16ee254728c4ef195cd919a785e8b0a?source=copy_link)'
-- `KHUTHON` (2024 Kyunhee Univ Hackathon - ESG 부문) AI-LLM part <sub>2024.05</sub>
-  - '도시농업플랫폼 Cifarm'
-- `KU-SW Academy 5th` (2024 [고려대 지능정보 SW아카데미] 5기 - Data Science & AI) <sub>2024.08 ~ 2024.12</sub>
-  - '현명한 금융 생활 FinWise'
 - `FutureWorkLab` **AI Engineering & Research Intern** <sub>2025.01 ~ 2025.07</sub>
   - '나만의 세컨드 브레인 '[LinkBrain](https://www.linkbrain.kr/)'
   - jo._.on__ 의 '[인턴일기](https://www.futureworklab.co.kr/articles/3)'
 - `AIMS Lab` [@KHU](https://sites.google.com/view/khu-aims/home?authuser=0) **Undergraduate Intern Researcher** <sub>2025.07 ~ </sub>
   - '멀티모달 생체신호 데이터를 이용한 머신러닝 기반 집중도 예측 모델 개발' [KSC 2025](https://www.kiise.or.kr/conference/KSC/2025/)' <sub>`paper submission`</sub>
   - 'Brain CT Anomaly Detection 연구' <sub>`proceeding..` </sub>
-- **Seoul National University Hospital · BMI Lab** — *Research Intern* <sub>`2026.03 ~ present`</sub>
+- `BMI Lab` — SNU Hospital · **Research Intern** <sub>`2026.03 ~ 2026.08`</sub>
   - Stain/scanner-robust self-supervised encoders for pathology WSI (DINO / DINOv2)
+- `Naver Cloud` AI/AX Business Strategy Intern <sub>`2026.08 ~ present`</sub>
 <br>
 
 ## 🏆 Awards 
