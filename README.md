@@ -12,11 +12,11 @@
   - '나만의 세컨드 브레인 '[LinkBrain](https://www.linkbrain.kr/)'
   - jo._.on__ 의 '[인턴일기](https://www.futureworklab.co.kr/articles/3)'
 - `AIMS Lab` [@KHU](https://sites.google.com/view/khu-aims/home?authuser=0) **Undergraduate Intern Researcher** <sub>2025.07 ~ </sub>
-  - '멀티모달 생체신호 데이터를 이용한 머신러닝 기반 집중도 예측 모델 개발' [KSC 2025](https://www.kiise.or.kr/conference/KSC/2025/)' <sub>`paper submission`</sub>
-  - 'Brain CT Anomaly Detection 연구' <sub>`proceeding..` </sub>
-- `BMI Lab` — SNU Hospital · **Research Intern** <sub>`2026.03 ~ 2026.08`</sub>
+  - '멀티모달 생체신호 데이터를 이용한 머신러닝 기반 집중도 예측 모델 개발' [KSC 2025](https://www.kiise.or.kr/conference/KSC/2025/)' <sub>paper submission</sub>
+  - 'Brain CT Anomaly Detection 연구' <sub>proceeding.. </sub>
+- `BMI Lab` — SNU Hospital · **Research Intern** <sub>2026.03 ~ 2026.08</sub>
   - Stain/scanner-robust self-supervised encoders for pathology WSI (DINO / DINOv2)
-- `Naver Cloud` **AI/AX Business Strategy Intern** <sub>`2026.08 ~ present`</sub>
+- `Naver Cloud` **AI/AX Business Strategy Intern** <sub>2026.08 ~ present</sub>
 <br>
 
 ## 🏆 Awards 
